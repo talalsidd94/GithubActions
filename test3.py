@@ -3,4 +3,4 @@ num2 =  input("enter 2nd number : ")
 
 result = num1 + num2
 
-print(result);
+print(result)
